@@ -1,3 +1,3 @@
 # twitter-airflow-data-engineering-project
-![screenshot](screenshot.png)
+<img src="screenshot.jpg" width="128"/>
 
